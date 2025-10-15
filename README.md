@@ -1,4 +1,4 @@
-# Vibrant Portfolio Site
+# Vibrant Portfolio Site (Changed)
 
 A sleek, modern, multi-page personal website using cool colors and JavaScript slide-in animations.
 
